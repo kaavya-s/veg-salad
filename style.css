@@ -1,0 +1,38 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+body {
+  background-color: rgba(248, 122, 122, 0.842);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+#titleName {
+  color: rgb(86, 13, 88);
+}
+#benefits {
+  color: rgb(19, 19, 202);
+}
+#hr {
+  width: 100vw;
+}
+#benefits {
+  padding: 10px;
+}
+#stepForVegetableSalad {
+  padding: 10px;
+}
+#steps {
+  padding: 10px;
+}
+#benefitsParagraph {
+  padding: 2px;
+}
+#footerText {
+  padding: 10px;
+}
